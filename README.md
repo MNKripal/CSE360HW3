@@ -120,6 +120,14 @@ Testing and Validation:
 
       Purpose: Enforces the rule that special characters cannot appear at the end of a username.
 
+Screencast details:
+   
+Link to the screencast: https://asu.zoom.us/rec/share/Qsm748NEzboGlNQFUrokl0imSQL22CMA0149ZEztfbiVH2sUGD9D_VzaLCooBHNP.nvZUmwqz0yYazesO 
+
+Passcode: X$a?Bq29
+
+
+
 Author: Kripal Naveen Kumar Mogala
 
 Course: CSE360
